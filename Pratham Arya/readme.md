@@ -1,0 +1,1 @@
+Hello I am a first year student in BITS Pilani pursuing MSc Mathematics. I am interested in web dev and will look to contribute to open source in future.
